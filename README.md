@@ -7,21 +7,21 @@ Parsed entries from pages 104-108 of the [1900 Minneapolis City Directory](https
 The data is in the following format:
 
 ```json
-{  
-  "FirstName": "Emma",  
-  "LastName": "Abt",  
-  "Spouse": "Michael",  
-  "Occupation": "tchr",  
-  "CompanyName": null,  
-  "HomeAddress": {  
-    "StreetNumber": "2309",  
-    "StreetName": "Bryant av s",  
-    "ApartmentOrUnit": null,  
-    "ResidenceIndicator": "boards"  
-  },  
-  "WorkAddress": null,  
-  "Telephone": null,  
-  "DirectoryName": "Minneapolis 1900",  
-  "PageNumber": 106  
+{
+  "FirstName": "Emma",
+  "LastName": "Abt",
+  "Spouse": "Michael",
+  "Occupation": "Teacher",
+  "CompanyName": null,
+  "HomeAddress": {
+    "StreetNumber": "2309",
+    "StreetName": "Bryant av s",
+    "ApartmentOrUnit": null,
+    "ResidenceIndicator": "b"
+  },
+  "WorkAddress": null,
+  "Telephone": null,
+  "DirectoryName": "Minneapolis 1900",
+  "PageNumber": 106
 }
 ```
